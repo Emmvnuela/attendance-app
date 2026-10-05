@@ -1,3 +1,11 @@
+## Screenshots
+
+### Admin dashboard
+![Admin dashboard](screenshots/admin.png)
+
+### Login page
+![Log a session](screenshots/login.png)
+
 # Lecture Ledger — attendance and teaching-hours tracker
 
 Teachers log lecture sessions (date, time, status, attendance). The app adds up teaching hours per teacher,
